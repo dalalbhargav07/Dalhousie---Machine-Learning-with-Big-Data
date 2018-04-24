@@ -42,6 +42,6 @@ Task Peformed:
   * Performed a multiclass evaluation and a significance test (e.g. paired t-test) for each classifier. Use a ten-fold cross-validation with stratification.
 
        
-#### Documentation of the project is [here] (https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Project%20-%20GeoSpatial%20Data%20Classification/Project%20Report_Bhargav%20Dalal_B00785773.pdf).
+#### Documentation of the project is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Project%20-%20GeoSpatial%20Data%20Classification/Project%20Report_Bhargav%20Dalal_B00785773.pdf).
 
 
