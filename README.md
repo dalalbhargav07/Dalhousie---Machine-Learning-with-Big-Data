@@ -18,8 +18,8 @@ Course Description:
 Concepts Covered in the class:
 ------------------------------
 
-| Topics                                           |
-| ------------------------------------------------ | 
+| Part 1                | Part 2                   |
+| --------------------- | ------------------------ | 
 | Big Data, intro to ML | Learning theory          |
 | Linear models         | Neural Networks          |
 | Bayesian models       | Deep Learning            |
