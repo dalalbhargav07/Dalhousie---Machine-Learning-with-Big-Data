@@ -11,7 +11,7 @@ CSV file. Each row in the file labeled with one of the following categories:
 2. Deer (28%)
 3. Cattle (20%)
 <br />
-Other information about the dataset:
+Other information about the dataset:<br />
 * Number of instances: 5135
 * Number of features: 25
 * Number of classes: 3
