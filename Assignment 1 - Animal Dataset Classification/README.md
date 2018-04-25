@@ -16,7 +16,9 @@ Other information about the dataset:<br />
 2. Number of features: 25 <br />
 3. Number of classes: 3 
 <br />
+
 Useful Python packages:
+-----------------------
 * **Numpy:** multidimensional arrays, vector and matrix operations
 * **Pandas:** data manipulation and analysis
 * **Scikit-learn:** machine learning library for classification, regression, clustering, feature selection and much more.
