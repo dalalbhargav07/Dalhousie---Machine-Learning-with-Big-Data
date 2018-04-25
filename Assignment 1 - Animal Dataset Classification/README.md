@@ -35,9 +35,9 @@ accuracy in 10 folds. Eventually used a statistical significance test (e.g. stud
 and determine whether the methods are significantly different or not. Use 𝛼 =
 0.05 as the significance threshold. Furthermore have applied the significance test, on the
 classifier which had the best average performance, and compared it to all the remaining
-classifiers.
+classifiers.<br />
 (c) Traineedd a Random Forest using a 10-fold cross-validation with the 10, 20, 50 and 100
 trees (e.g. number of estimators in the scikit package) and reported the mean
 accuracies.
 
-Documentation of the code is [hear](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Assignment%201%20-%20Animal%20Dataset%20Classification/A1_BhargavDalal_B0785773.pdf).
+Documentation of the code is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Assignment%201%20-%20Animal%20Dataset%20Classification/A1_BhargavDalal_B0785773.pdf).
