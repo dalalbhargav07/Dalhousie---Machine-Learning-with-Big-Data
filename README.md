@@ -36,6 +36,6 @@ In this project, have applied the concept of feature engineering for pre-process
 ### Assignment (Classification on Animals Daraset):
 
 In this assignment, classification algorithms such as **logistic regression, decision tree, random forest and
-naïve Bayes classifier** are modeled on the dataset using **scikitlearn** package of python. The results of the classifiers have been evaluated using cross-validation technique and statistical t-test. The directory for project is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Assignment%201%20-%20Animal%20Dataset%20Classification).
+naïve Bayes classifier** are modeled on the dataset using **scikitlearn** package of python. The results of the classifiers have been evaluated using cross-validation technique and statistical t-test. The directory for assignment is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Assignment%201%20-%20Animal%20Dataset%20Classification).
 
 Thanks to Dr. Stan Matwin for desiging and teaching the course well.
