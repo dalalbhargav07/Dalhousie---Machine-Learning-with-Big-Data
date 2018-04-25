@@ -12,9 +12,9 @@ Use the provided Geolife dataset. The target variable is the last column in the 
 5. subway (7%)
 6. train (12%)
 <br />
-Other information about the dataset:
-* Number of trajectory points: 4.485.796
-* Number of classes: 6
+* Other information about the dataset:
+ * Number of trajectory points: 4.485.796
+ * Number of classes: 6
 
 Installation notes and Packages Required:
 -----------------------------------------
