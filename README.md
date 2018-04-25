@@ -31,11 +31,11 @@ Project and Assignment:
 
 ### Project (Classification on GeoSpatial Dataset):
 
-In this project, have applied the concept of feature engineering for pre-processing and cleaning of the data.  After pre-processing of the data, it was heirarchically classified into a tree structure. Further applied classification algorithm such as Random Forest, Decision Tree on the heirarchical tree structure classified data as well as flat structured data. Compare model for tree structure as well as flat structure yusing statistical t-test. The directory for project is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Project%20-%20GeoSpatial%20Data%20Classification).
+In this project, have applied the concept of feature engineering for pre-processing and cleaning of the data.  After pre-processing of the data, it was heirarchically classified into a tree structure. Further applied classification algorithm such as Random Forest, Decision Tree on the heirarchical tree structure classified data as well as flat structured data. Compare model for tree structure as well as flat structure yusing statistical t-test. The directory for the project is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Project%20-%20GeoSpatial%20Data%20Classification).
 
 ### Assignment (Classification on Animals Daraset):
 
 In this assignment, classification algorithms such as **logistic regression, decision tree, random forest and
-naïve Bayes classifier** are modeled on the dataset using **scikitlearn** package of python. The results of the classifiers have been evaluated using cross-validation technique and statistical t-test. The directory for assignment is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Assignment%201%20-%20Animal%20Dataset%20Classification).
+naïve Bayes classifier** are modeled on the dataset using **scikitlearn** package of python. The results of the classifiers have been evaluated using cross-validation technique and statistical t-test. The directory for the assignment is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/tree/master/Assignment%201%20-%20Animal%20Dataset%20Classification).
 
 Thanks to Dr. Stan Matwin for desiging and teaching the course well.
