@@ -14,7 +14,7 @@ CSV file. Each row in the file labeled with one of the following categories:
 Other information about the dataset:<br />
 * Number of instances: 5135
 * Number of features: 25
-* Number of classes: 3
+* Number of classes: 3 <br/>
 
 Useful Python packages:
 * **Numpy:** multidimensional arrays, vector and matrix operations
