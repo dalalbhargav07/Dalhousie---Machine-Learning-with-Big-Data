@@ -12,9 +12,9 @@ CSV file. Each row in the file labeled with one of the following categories:
 3. Cattle (20%)
 <br />
 Other information about the dataset:<br />
-* Number of instances: 5135
-* Number of features: 25
-* Number of classes: 3 
+1. Number of instances: 5135 <br />
+2. Number of features: 25 <br />
+3. Number of classes: 3 
 <br />
 Useful Python packages:
 * **Numpy:** multidimensional arrays, vector and matrix operations
