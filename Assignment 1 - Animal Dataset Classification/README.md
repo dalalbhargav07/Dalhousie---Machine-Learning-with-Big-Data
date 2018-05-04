@@ -42,4 +42,4 @@ classifiers.<br />
 trees (e.g. number of estimators in the scikit package) and reported the mean
 accuracies.
 
-Documentation of the code is [here](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Assignment%201%20-%20Animal%20Dataset%20Classification/A1_BhargavDalal_B0785773.pdf).
+Report for the assignment: [Animal DataSet Classification](https://github.com/dalalbhargav07/Dalhousie---Machine-Learning-with-Big-Data/blob/master/Assignment%201%20-%20Animal%20Dataset%20Classification/A1_BhargavDalal_B0785773.pdf).
