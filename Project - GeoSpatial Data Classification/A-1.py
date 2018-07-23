@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  9 15:09:02 2017
 
-@author: User
+@author: dalalbhagrav07
 """
 
 import numpy as np
@@ -10,25 +10,7 @@ import pandas as pd
 import math
 import datetime
 import gpxpy.geo as gp
-'''
-def havrsine(lon1, lat1, lon2, lat2):
-    """
-    Calculate the great circle distance between two points 
-    on the earth (specified in decimal degrees)
-    """
-    # convert decimal degrees to radians
-    
-    lon1, lat1, lon2, lat2 = map(np.radians, [lon1, lat1, lon2, lat2])
 
-    # haversine formula 
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
-    a = np.sin(dlat/2.0)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon/2.0)**2
-
-    c = 2 * np.arcsin(np.sqrt(a))
-    m = 6367 * c * 1000
-    return m
-'''
 
 def calculate_initial_compass_bearing(pointA, pointB):
     """
@@ -118,8 +100,7 @@ data['collected_time'] = pd.to_datetime(data['collected_time'])
 data['date'] = [d.date() for d in data['collected_time']]
 data['date'] = pd.to_datetime(data['date'])
 data['time'] = [d.time() for d in data['collected_time']]
-#data['longitude'] = np.radians(data['longitude'])
-#data['latitude'] = np.radians(data['latitude'])
+
 print (datetime.datetime.now())
 data['msk'] = usr_class_seperator(data)
 data['dymask'] = day_class_seperator(data)
@@ -153,6 +134,3 @@ data.drop(['longitude','latitude','collected_time','time'], axis = 1, inplace=Tr
 print ('Started writing to a new file')
 data.to_csv('geodata_1.csv', header = True, index = False   , sep=',')
 print ('Done')
-
-
-print (datetime.datetime.now())
